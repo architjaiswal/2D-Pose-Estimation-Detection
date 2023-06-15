@@ -1,4 +1,4 @@
-# 2D pose estimation models
+# What A Pose: 2D pose estimation models
 
 A 2D pose estimation model can be used in various applications, such as sports analysis, rehabilitation, and human-
 computer interaction. For example, the model can be used to track the gesture of a human, allowing the autonomous
@@ -11,6 +11,8 @@ used to improve the model’s accuracy. The ML model predicts the location of jo
 classifies yoga poses. Performance evaluation was performed using various metrics such as accuracy, precision, recall,
 and F1-score. The results of the performance evaluation of all the ML models trained in this project and pose detection
 accuracy are discussed in this paper.
+
+## [Project Video](https://youtu.be/GgoXQ3LO-6s)
 
 ## Code Implementation
 
